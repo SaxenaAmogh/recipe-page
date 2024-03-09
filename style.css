@@ -1,0 +1,121 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.main{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-image: url(image-omelette.jpeg);
+    background-size: cover;
+    height: 22em;
+    border-radius: 20px;
+}
+hr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.master{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#heading{
+    font-family: Young Serif;
+    font-weight: 400;
+    font-size: 48px;
+    color: hsl(24, 5%, 18%);
+}
+#para1{
+    color: hsl(30, 10%, 34%);
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Outfit;
+    margin-top: -5%;
+}
+.prep{
+    background-color: hsl(332, 51%, 96%);
+    border-radius: 20px;
+    font-weight: 500;
+    font-family: Outfit;
+    padding-bottom: 3%;
+}
+#prep1{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 3%;
+    margin-left: 5%;
+    color: hsl(332, 51%, 32%);
+}
+#boldtext{
+    font-weight: bold;
+}
+#addspace{
+    padding-left: 3%;
+}
+li{
+    padding-top: 2%;
+}
+li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+.list1{
+    padding-left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(30, 10%, 34%);
+}
+#heading2{
+    font-family: Young Serif;
+    font-weight: 400;
+    font-size: 32px;
+    color: hsl(14, 45%, 36%);
+}
+.list2{
+    margin-top: -3%;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(30, 10%, 34%);
+}
+#para2{
+    color: hsl(30, 10%, 34%);
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Outfit;
+    margin-top: -2%;    
+}
+table{
+    width: 100%;
+    color: hsl(30, 10%, 34%);
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Outfit;
+    border-collapse: collapse;
+}
+td{
+    border-bottom: 1pt solid;
+}
+#name{
+    padding-left: 5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+#value{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+.name1{
+    border-bottom: 0pt;
+}
