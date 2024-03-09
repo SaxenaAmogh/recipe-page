@@ -25,8 +25,8 @@ Following are the screenshots of the webpage:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/SaxenaAmogh/recipe-page)
+- Live Site URL: [webpage](https://saxenaamogh.github.io/recipe-page/)
 
 ## My process
 
